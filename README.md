@@ -5,7 +5,7 @@
  
 
 # Introduction
-This algorithm is for Tack MyoPS++ in [CARE 2024 Challenge](https://www.zmic.org.cn/care_2024/track4/), which was held at MICCAI 2024. We are ranked ${\textsf{\color{red} XX}}$ !
+This algorithm is for Track MyoPS++ in [CARE 2024 Challenge](https://www.zmic.org.cn/care_2024/track4/), which was held at MICCAI 2024. We are ranked ${\textsf{\color{red} XX}}$ !
 
 Our publication: XX [Arxiv](XX)
 
