@@ -1,0 +1,19 @@
+{
+ "channel_names": {
+   "0": "LGE",
+   "1": "T2",
+   "2": "C0"
+ },
+ "labels": {
+   "background": 0,
+   "LV normal myo": 1,
+   "LV blood pool":2,
+   "LV scar":3,
+   "LV edema": [3,4]
+ },
+ "regions_class_order": [1, 2, 3,4],
+ "numTraining": 199,
+ "file_ending": ".nii.gz",
+ "overwrite_image_reader_writer": "SimpleITKIO"
+}
+ 

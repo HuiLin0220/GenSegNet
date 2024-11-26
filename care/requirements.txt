@@ -1,0 +1,9 @@
+numpy
+acvl-utils>=0.2
+tqdm
+pandas
+nibabel
+dynamic_network_architectures
+batchgeneratorsv2
+matplotlib
+seaborn
