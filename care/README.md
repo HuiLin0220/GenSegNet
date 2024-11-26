@@ -1,2 +1,2 @@
-# GenSegNet
-CARE 2024-Track Myocardial Pathology Segmentation (MyoPS++)
+# care
+Codes for segmentation
