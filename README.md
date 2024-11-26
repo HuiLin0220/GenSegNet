@@ -15,7 +15,7 @@ Will update soon
 ## Prepare data
 Will update soon
 ## Inference
-Sharing weight ([Google drive](https://drive.google.com/file/d/1BO4whry0i50h_yzqQwUw1k7QyyLUk2U3/view?usp=sharing)). 
+Sharing weight ([Google drive](https://drive.google.com/drive/folders/1xNNUopYSzvtBs9EeyRUMr4ab5kjLJ71q?usp=sharing)). 
 ## References
 ## Contact Us
 Feel free to contact me at huilin2023@u.northwestern.edu
