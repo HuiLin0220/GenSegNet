@@ -1,3 +1,2 @@
 # care
-Codes for segmentation
-will update soon!
+Codes for image translation will be updated soon!
